@@ -13,15 +13,15 @@ The app allows to:
 
 Main page:
 
-<img src="" width="769" />
+<img src="https://github.com/EvgeniaMarch/DA.Korean/blob/main/.github/img/main_page.png" width="769" />
 
 Courses page:
 
-<img src="" width="769" />
+<img src="https://github.com/EvgeniaMarch/DA.Korean/blob/main/.github/img/courses_page.png" width="769" />
 
 Callygraphy page:
 
-<img src="" width="769" />
+<img src="https://github.com/EvgeniaMarch/DA.Korean/blob/main/.github/img/calligraphy_page.png" width="769" />
 
 ### Stack
 
