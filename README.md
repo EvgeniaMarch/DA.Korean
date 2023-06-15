@@ -8,7 +8,6 @@ The app allows to:
 
 - **sign in** or **sign up** on website;
 - **buy** courses, calligraphy pages (test mode);
-- **mailing** newsletters after subscribing in the form of a footer;
 - **add**, **change**, **delete** courses and calligraphy pages from admin page;
 
 Main page:
@@ -94,10 +93,4 @@ DATABASE_URL = postgres://postgres:postgres@localhost:5432/da_korean
 
 ```
 npm run dbr
-```
-
-10. run in the **dev** mode with:
-
-```
-npm run dev
 ```
